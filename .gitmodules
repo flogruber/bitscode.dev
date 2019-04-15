@@ -2,3 +2,7 @@
 	path = public
 	url = https://github.com/flogruber/flogruber.github.io.git
 	branch = master
+[submodule "themes/KeepIt"]
+	path = themes/KeepIt
+	url = https://github.com/flogruber/KeepIt.git
+	branch = master
