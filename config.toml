@@ -1,0 +1,22 @@
+languageCode = "en-us"
+title = "BitsCode.dev"
+baseurl = "https://bitscode.dev"
+theme = "KeepIt"
+
+  [[menu.main]]
+    name = "Privacy"
+    url = "/privacy"
+    weight = 4
+
+[params]
+  name = "Florian ´Flo´ Gruber"
+  about = "Flo Gruber"
+  subtitle = "Software Engineer • IT Security Student • It´s working on 127.0.0.1"
+  copyright = "Flo Gruber"
+  since = 2019
+
+  [params.social]
+      Linkedin = "flogruber"
+      Facebook = "flo.gruber1"
+      GitHub = "flogruber"
+      GitLab = "flogruber"
