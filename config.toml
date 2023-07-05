@@ -4,6 +4,10 @@ baseurl = "https://bitscode.dev"
 theme = "KeepIt"
 
   [[menu.main]]
+    name = "Kontakt"
+    url = "/contact"
+    weight = 4
+  [[menu.main]]
     name = "Privacy"
     url = "/privacy"
     weight = 4
@@ -13,7 +17,7 @@ theme = "KeepIt"
   about = "Flo Gruber"
   subtitle = "Software Engineer • IT Security Student • It´s working on 127.0.0.1"
   copyright = "Flo Gruber"
-  since = 2019
+  since = 2023
 
   [params.social]
       Linkedin = "flogruber"
