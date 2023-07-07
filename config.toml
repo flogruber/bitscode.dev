@@ -18,6 +18,7 @@ theme = "KeepIt"
   subtitle = "Software Engineer • IT Security Student • It´s working on 127.0.0.1"
   copyright = "Flo Gruber"
   since = 2023
+  iubenda = "https://www.iubenda.com/privacy-policy/67857437"
 
   [params.social]
       Linkedin = "flogruber"
