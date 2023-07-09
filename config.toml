@@ -19,6 +19,7 @@ theme = "KeepIt"
   copyright = "Flo Gruber"
   since = 2023
   iubenda = "https://www.iubenda.com/privacy-policy/67857437"
+  logosrc = "/img/logo-no-background.svg"
 
   [params.social]
       Linkedin = "flogruber"

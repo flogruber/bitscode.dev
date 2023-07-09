@@ -26,6 +26,9 @@ Kasten 23/4/3
 **Aufsichtsbehörde:** Bezirkshauptmannschaft St. Pölten  
 **Verleihungsstaat:** Österreich  
   
+**Logo:** [LOGO.com](https://logo.com)  
+**Font:** [Comfortaa](https://fonts.google.com/specimen/Comfortaa)  
+
 ## Datenschutz
 
 {{< dsgvo >}}
