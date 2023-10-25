@@ -7,7 +7,7 @@ draft: false
 ## Impressum
 
 Florian Gruber  
-Florian Gruber BSc  
+Dipl.-Ing. Florian Gruber BSc  
 Kasten 23/4/3  
 3072 Kasten bei Böheimkirchen  
 Österreich  
