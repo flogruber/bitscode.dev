@@ -15,7 +15,7 @@ theme = "KeepIt"
 [params]
   name = "Florian ´Flo´ Gruber"
   about = "Flo Gruber"
-  subtitle = "Software Engineer • IT Security Student • It´s working on 127.0.0.1"
+  subtitle = "Software Engineer • IT Security • It´s working on 127.0.0.1"
   copyright = "Flo Gruber"
   since = 2023
   iubenda = "https://www.iubenda.com/privacy-policy/67857437"
